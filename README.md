@@ -1,4 +1,4 @@
-# macos-collection
+# macOS Collection
 Tổng hợp bộ cài cho macOS kèm OpenCore 0.8.2
 
 # Link tải
