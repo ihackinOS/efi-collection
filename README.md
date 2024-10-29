@@ -1,13 +1,37 @@
-# macOS Collection
-Tổng hợp bộ cài cho macOS kèm OpenCore 0.8.2
+# EFI COLLECTION
+Tổng hợp các phiên bản EFI OpenCore 1.0.2
 
-# Link tải
-https://hackinos.com/topic/3-tổng-hợp-bộ-cài-macos-đi-kèm-opencore-082
+# Nguồn
+https://hackinos.com/topic/3-efi-collection
 
-# Các phiên bản cập nhật bao gồm:
-1. Ventura Beta 3
-2. Monterey 12.4
-3. Big Sur 11.6.7
-4. Catalina 10.15.7
-5. Mojave 10.14.6
-6. High Sierra 10.13.6
+# ← EFI OPENCORE DESKTOP →
+- Sandy Bridge: [Download](http://go.megaurl.in/EFI-Desktop-SandyBridge)
+- Ivy Bridge: [Download](http://go.megaurl.in/EFI-Desktop-IvyBridge)
+- Haswell + Broadwell: [Download](http://go.megaurl.in/EFI-Desktop-Haswell-Broadwell)
+- Skylake: [Download](http://go.megaurl.in/EFI-Desktop-Skylake)
+- Kaby Lake: [Download](http://go.megaurl.in/EFI-Desktop-Kabylake)
+- Coffee Lake: [Download](http://go.megaurl.in/EFI-Desktop-Coffeelake)
+- Comet Lake: [Download](http://go.megaurl.in/EFI-Desktop-Cometlake)
+- Rocket Lake: Download
+- ALder Lake + Raptor Lake: Download
+
+# ← EFI OPENCORE HEDT →
+- HEDT Sandy Bridge-E + Ivy Bridge-E: Download
+- HEDT Haswell-E: Download
+- HEDT Broadwell-E: Download
+- HEDT Skylake-XW + Cascade Lake-XW: Download
+  
+# ← EFI OPENCORE AMD →
+- AMD Bulldozer, Jaguar, Ryzen, Threadripper: Download
+  
+# ← EFI OPENCORE LAPTOP →
+- Sandy Bridge: [Download](http://go.megaurl.in/EFI-Laptop-SandyBridge)
+- Ivy Bridge: [Download](http://go.megaurl.in/EFI-Laptop-IvyBridge)
+- Haswell: [Download](http://go.megaurl.in/EFI-Laptop-Haswell)
+- Broadwell: [Download](http://go.megaurl.in/EFI-Laptop-Broadwell)
+- Sky Lake: [Download](http://go.megaurl.in/EFI-Laptop-Skylake)
+- Kaby Lake: [Download](http://go.megaurl.in/EFI-Laptop-Kabylake)
+- Coffee Lake + Whiskey Lake: [Download](http://go.megaurl.in/EFI-Laptop-Coffeelake)
+- Coffee Lake Plus + Comet Lake: [Download](http://go.megaurl.in/EFI-Laptop-Cometlake)
+- Ice Lake: [Download](http://go.megaurl.in/EFI-Laptop-Icelake)
+- AMD with Vega iGPU: Download
