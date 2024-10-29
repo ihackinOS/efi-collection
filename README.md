@@ -1,8 +1,5 @@
-# EFI COLLECTION
+# ← EFI COLLECTION →
 Tổng hợp các phiên bản EFI OpenCore 1.0.2
-
-# Nguồn
-https://hackinos.com/topic/3-efi-collection
 
 # ← EFI OPENCORE DESKTOP →
 - Sandy Bridge: [Download](http://go.megaurl.in/EFI-Desktop-SandyBridge)
@@ -35,3 +32,8 @@ https://hackinos.com/topic/3-efi-collection
 - Coffee Lake Plus + Comet Lake: [Download](http://go.megaurl.in/EFI-Laptop-Cometlake)
 - Ice Lake: [Download](http://go.megaurl.in/EFI-Laptop-Icelake)
 - AMD with Vega iGPU: Download
+
+# ← LIÊN HỆ DỊCH VỤ →
+  - Telegram ( https://t.me/hackinOS )
+  - Zalo ( https://zalo.me/0931798900 )
+  - Website: www.hackinOS.com
